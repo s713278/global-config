@@ -1,2 +1,2 @@
 # global-config
-Global properties configuration files
+Global properties configuration file for all the micro services for different environment
